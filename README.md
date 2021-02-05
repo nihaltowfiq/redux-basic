@@ -1,1 +1,1 @@
-# Practice Redux Basics!
+# Practice and Understanding Redux Basics!
